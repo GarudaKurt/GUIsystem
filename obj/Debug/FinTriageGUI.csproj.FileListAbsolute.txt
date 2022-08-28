@@ -1,0 +1,17 @@
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\bin\Debug\FinTriageGUI.exe.config
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\bin\Debug\FinTriageGUI.exe
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\bin\Debug\FinTriageGUI.pdb
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.MainFrm.resources
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.Properties.Resources.resources
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.csproj.GenerateResource.cache
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.csproj.CoreCompileInputs.cache
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.exe
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.pdb
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.csproj.CopyComplete
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\bin\Debug\FinTriageGUI.exe.manifest
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\bin\Debug\FinTriageGUI.application
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.exe.manifest
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.application
+C:\Users\letad\OneDrive\Desktop\C# Compilation\FinTriageGUI\FinTriageGUI\obj\Debug\FinTriageGUI.csproj.AssemblyReference.cache
