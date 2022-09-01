@@ -23,7 +23,8 @@ namespace FinTriageGUI
        private string tmp { get; set; }
 
         public bool onClick = true;
-     
+	
+ 	Console.Write("Hello World");
 
        public void UsersInfos()
        {
