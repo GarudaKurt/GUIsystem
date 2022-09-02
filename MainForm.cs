@@ -24,7 +24,6 @@ namespace FinTriageGUI
 
         public bool onClick = true;
 	
- 	Console.Write("Hello World");
 
        public void UsersInfos()
        {
